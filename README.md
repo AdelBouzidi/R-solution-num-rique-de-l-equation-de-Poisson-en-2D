@@ -1,4 +1,4 @@
-# R-solution-num-rique-de-l-equation-de-Poisson-en-2D
+# Résolution-numérique-de-l-équation-de-Poisson-en-2D
 Ce travail présente l’ensemble des travaux réalisés dans le cadre du TP sur la résolution
 numérique de l’équation de Poisson en 2D par la méthode des différences finies. L’objectif
 principal était de :
